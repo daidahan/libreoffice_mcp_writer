@@ -1,0 +1,6 @@
+{
+  "permissions": {
+    "allow": ["mcp__libreoffice-writer"],
+    "deny": ["Bash", "Edit", "Write", "NotebookEdit"]
+  }
+}

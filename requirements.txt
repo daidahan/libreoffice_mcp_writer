@@ -1,0 +1,6 @@
+# El servidor usa la API de FastMCP de la serie 1.x.
+# En mcp 2.x, FastMCP fue renombrado a MCPServer y el script no arranca.
+mcp>=1.2,<2
+
+# El módulo `uno` NO se instala con pip: lo provee LibreOffice.
+# Ver la sección "Requisitos" del README.
